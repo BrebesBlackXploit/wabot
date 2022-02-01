@@ -1,7 +1,7 @@
 {
   "name": "Fn4ticHzBOT",
   "version": "2.5.1",
-  "description": "® Brebes Black Xploit",
+  "description": "Â® Brebes Black Xploit",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/BrebesBlackXploit/wabot",
   "author": {
-    "name": "Nurutomo"
+    "name": "RamaGans ID"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/BrebesBlackXploit/wabot.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/BrebesBlackXploit/wabot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
